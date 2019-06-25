@@ -1,3 +1,20 @@
+## Syed Muzamil
+
+```html
+<div class="body">
+Hello world
+</div>
+```
+
+```css
+.body {
+  color: #290ef1;
+  background: #ef12ad;
+}
+```
+
+
+
 # Fetching data
 Fetch content from local files or external APIs and store the data in a local database. A unified GraphQL Data layer lets you extract only the data you need from the database and use it in your Vue.js components.
 
